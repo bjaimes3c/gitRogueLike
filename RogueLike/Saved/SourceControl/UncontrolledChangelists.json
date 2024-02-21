@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Blueprints/InteractionInterface.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/InventorySystem.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/FSlotStruct.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/FItemStruct.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Input/IMC_Default.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/FItemData.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/ItemDataComponent.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/UI/I_InventoryGrid.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/Inventory/UI/I_InventorySlot.uasset",
+				"/Users/bryanjaimes/Documents/Unreal Projects/RogueLike/Content/FirstPerson/Blueprints/Interaction.uasset"
+			]
+		}
+	]
+}
